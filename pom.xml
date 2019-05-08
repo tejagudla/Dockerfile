@@ -1,21 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@tejagudla 
-0
-0 0 tejagudla/java-project
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-java-project/pom.xml
-@tejagudla tejagudla first commit
-5b02936 18 days ago
-221 lines (183 sloc)  5.83 KB
-  
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
@@ -230,21 +212,9 @@ java-project/pom.xml
     <tag>HEAD</tag>
     <url>http://github.com/jleetutorial/maven-project</url>
   </scm>
-
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
 
 </project>
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
